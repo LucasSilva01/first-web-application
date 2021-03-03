@@ -1,22 +1,24 @@
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 
-function Home() {
+function TelaInicial() {
   return (
     <div className={styles.container}>
       <title>Minha Primeira Página Next.js</title>
-      <h1 className={styles.title}>
-        Minha primeira página Next
+      
+      <h1 className={styles.description}>
+        Minha primeira página Next.js
       </h1>
       <ul>
-        <li>
+        <div>
           <Link href="/maria">
-            <button className={styles.description}>Link para Maria</button>
+            <button className={styles.card}>Acesso a Maria Preá</button>
           </Link>
-        </li>
+        </div>
       </ul>
     </div>
   )
 }
 
-export default Home
+export default TelaInicial
+
