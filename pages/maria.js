@@ -9,7 +9,7 @@ function MariaPrea() {
         <ul>
             <div>
                 <Link href="/">
-<button className={styles.card}>Clique para saber o segredo</button>                
+                    <button className={styles.card}>Clique para saber o segredo</button>                
                 </Link>
                 
             </div>
