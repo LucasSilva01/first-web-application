@@ -24,3 +24,7 @@ Agora vá até a linha 11, edite o adjetivo que está entre aspas dentro das cha
 ```
 ![Bilby Stampede](https://github.com/LucasSilva01/first-web-application/blob/master/img/alterar_adjetivo.png)
 
+##
+
+Pronto edição realizada com sucesso!
+![Bilby Stampede](https://github.com/LucasSilva01/first-web-application/blob/master/img/editando_adjetivo.png)
