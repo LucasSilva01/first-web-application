@@ -5,7 +5,6 @@ function TelaInicial() {
   return (
     <div className={styles.container}>
       <title>Minha Primeira Página Next.js</title>
-      
       <h1 className={styles.description}>
         Minha primeira página Next.js
       </h1>
@@ -21,4 +20,3 @@ function TelaInicial() {
 }
 
 export default TelaInicial
-
