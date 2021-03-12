@@ -19,7 +19,7 @@ npm install
 Execute o servidor de desenvolvimento:
 
 ```bash
-npm run dev
+yarn run dev
 ```
 
 Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
